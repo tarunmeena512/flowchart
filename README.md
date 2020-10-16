@@ -5,3 +5,7 @@ Download the code and Enjoy...!!!!!
 
 For More Technological Knowledge visit http://www.visionfortech.com
 https://i.diawi.com/tKVmJZ
+
+input:hover:not([disabled]) {
+    border:1px solid #5AB0DB;
+}
